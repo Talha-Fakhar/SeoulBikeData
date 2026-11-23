@@ -37,5 +37,5 @@ Urban bike-sharing systems face frequent station stockouts during peak commuting
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<Talha-Fakhar>/SeoulBikeData>.git
-   cd <SeoulBikeData>
+   git clone https://github.com/Talha-Fakhar>/SeoulBikeData.git
+   cd SeoulBikeData
